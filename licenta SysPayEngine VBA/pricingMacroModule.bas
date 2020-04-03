@@ -51,7 +51,7 @@ Sub pricing()
     Sheets("pricing").Range("K" & i).Value = Round((Sheets("txn").Range("M" & i).Value - Sheets("txn").Range("N" & i).Value) * Sheets("txn").Range("C" & i).Value, 4)
     
     'Create Base Charge codes - column M
-    If (Sheets("txn").Range("E" & i).Value = "N") And (Sheets("txn").Range("F" & i).Value <> "AMEX") And (Sheets("txn").Range("F" & i).Value <> "DCD") Then
+    If (Sheets("txn").Range("E" & i).Value <> "Y") And (Sheets("txn").Range("F" & i).Value <> "AMEX") And (Sheets("txn").Range("F" & i).Value <> "DCD") Then
        Sheets("pricing").Range("M" & i).Value = ""
        ElseIf (Sheets("txn").Range("E" & i).Value = "Y") And (Sheets("txn").Range("D" & i).Value = 10) Or (Sheets("txn").Range("D" & i).Value = 12) Then
        Sheets("pricing").Range("M" & i).Value = "ARF" & Sheets("txn").Range("F" & i).Value
@@ -205,7 +205,7 @@ Sub pricing()
     Else: Sheets("pricing").Range("AM" & i).Value = ""
     End If
     If Sheets("pricing").Range("AL" & i).Value <> "" Then
-        Sheets("pricing").Range("AO" & i).Value = Abs(Sheets("pricing").Range("AN" & i).Value + Sheets("pricing").Range("N" & i).Value)
+        Sheets("pricing").Range("AO" & i).Value = Abs(Sheets("pricing").Range("AN" & i).Value + Sheets("pricing").Range("AL" & i).Value)
     Else: Sheets("pricing").Range("AO" & i).Value = ""
     End If
     End If

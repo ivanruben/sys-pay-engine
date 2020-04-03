@@ -475,6 +475,7 @@ For i = 4 To lastUniqueValue
 On Error Resume Next
 If Sheets("invaux").Range("J" & i).Value = "XXX" Or Sheets("invaux").Range("J" & i).Value = "" Then
 Sheets("invaux").Range("R" & i).ClearContents
+Sheets("invaux").Range("M" & i).ClearContents
 End If
 Next i
 
@@ -483,6 +484,7 @@ For i = 4 To lastUniqueValueCP
 On Error Resume Next
 If Sheets("invaux").Range("BP" & i).Value = "XXX" Or Sheets("invaux").Range("BP" & i).Value = "" Then
 Sheets("invaux").Range("BX" & i).ClearContents
+Sheets("invaux").Range("BS" & i).ClearContents
 End If
 Next i
 
@@ -491,6 +493,7 @@ For i = 4 To lastUniqueValuePCM
 On Error Resume Next
 If Sheets("invaux").Range("Y" & i).Value = "XXX" Or Sheets("invaux").Range("Y" & i).Value = "" Then
 Sheets("invaux").Range("AF" & i).ClearContents
+Sheets("invaux").Range("AA" & i).ClearContents
 End If
 Next i
 
@@ -499,6 +502,7 @@ For i = 4 To lastUniqueValuePAut
 On Error Resume Next
 If Sheets("invaux").Range("AM" & i).Value = "XXX" Or Sheets("invaux").Range("AM" & i).Value = "" Then
 Sheets("invaux").Range("AT" & i).ClearContents
+Sheets("invaux").Range("AO" & i).ClearContents
 End If
 Next i
 
@@ -507,6 +511,7 @@ For i = 4 To lastUniqueValuePLoc
 On Error Resume Next
 If Sheets("invaux").Range("BA" & i).Value = "XXX" Or Sheets("invaux").Range("BA" & i).Value = "" Then
 Sheets("invaux").Range("BH" & i).ClearContents
+Sheets("invaux").Range("BC" & i).ClearContents
 End If
 Next i
 
@@ -515,7 +520,24 @@ For i = 4 To lastUniqueValueMis
 On Error Resume Next
 If Sheets("invaux").Range("CB" & i).Value = "XXX" Or Sheets("invaux").Range("CB" & i).Value = "" Then
 Sheets("invaux").Range("CG" & i).ClearContents
+Sheets("invaux").Range("CE" & i).ClearContents
 End If
 Next i
+
+'calculeaza Suma de nr de tranzactii
+Sheets("invaux").Range("M2").Value = Application.Sum(Sheets("invaux").Range("M4:M" & lastInvauxRow).Value)
+Sheets("invaux").Range("BS2").Value = Application.Sum(Sheets("invaux").Range("BS4:BS" & lastInvauxRow).Value)
+Sheets("invaux").Range("CE2").Value = Application.Sum(Sheets("invaux").Range("CE4:CE" & lastInvauxRow).Value)
+'calculeaza Suma de FUND
+Sheets("invaux").Range("O2").Value = Application.Sum(Sheets("invaux").Range("O4:O" & lastInvauxRow).Value)
+Sheets("invaux").Range("BU2").Value = Application.Sum(Sheets("invaux").Range("BU4:BU" & lastInvauxRow).Value)
+'calculeaza Suma de CHRG
+Sheets("invaux").Range("Q2").Value = Application.Sum(Sheets("invaux").Range("Q4:Q" & lastInvauxRow).Value)
+Sheets("invaux").Range("AE2").Value = Application.Sum(Sheets("invaux").Range("AE4:AE" & lastInvauxRow).Value)
+Sheets("invaux").Range("AS2").Value = Application.Sum(Sheets("invaux").Range("AS4:AS" & lastInvauxRow).Value)
+Sheets("invaux").Range("BG2").Value = Application.Sum(Sheets("invaux").Range("BG4:BG" & lastInvauxRow).Value)
+Sheets("invaux").Range("BW2").Value = Application.Sum(Sheets("invaux").Range("BW4:BW" & lastInvauxRow).Value)
+Sheets("invaux").Range("CF2").Value = Application.Sum(Sheets("invaux").Range("CF4:CF" & lastInvauxRow).Value)
+Sheets("invaux").Range("T2").Value = Sheets("invaux").Range("AE2").Value + Sheets("invaux").Range("AS2").Value + Sheets("invaux").Range("BG2").Value
 
 End Sub

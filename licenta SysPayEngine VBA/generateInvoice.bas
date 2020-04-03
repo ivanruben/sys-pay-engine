@@ -13,15 +13,31 @@ Sub generateInvoice()
  countP = (Application.WorksheetFunction.CountA(Sheets("invaux").Range("AF4:AF10000")) + Application.WorksheetFunction.CountA(Sheets("invaux").Range("AT4:AT10000")) + Application.WorksheetFunction.CountA(Sheets("invaux").Range("BH4:BH10000")))
  countM = Application.WorksheetFunction.CountA(Sheets("invaux").Range("CG4:CG10000"))
  
- Sheets("GeneratedInvoice").Range("H1").Value = maxCA
- Sheets("GeneratedInvoice").Range("H2").Value = countCA
- Sheets("GeneratedInvoice").Range("H3").Value = maxCP
- Sheets("GeneratedInvoice").Range("H4").Value = countCP
- Sheets("GeneratedInvoice").Range("H5").Value = maxP
- Sheets("GeneratedInvoice").Range("H6").Value = countP
- Sheets("GeneratedInvoice").Range("H7").Value = spatiuLiber
- Sheets("GeneratedInvoice").Range("H8").Value = initial
- Sheets("GeneratedInvoice").Range("H9").Value = initial + countCA + spatiuLiber * 3 + countCP + countP + countM
+ 'Sheets("GeneratedInvoice").Range("H1").Value = maxCA
+ 'Sheets("GeneratedInvoice").Range("H2").Value = countCA
+ 'Sheets("GeneratedInvoice").Range("H3").Value = maxCP
+ 'Sheets("GeneratedInvoice").Range("H4").Value = countCP
+ 'Sheets("GeneratedInvoice").Range("H5").Value = maxP
+ 'Sheets("GeneratedInvoice").Range("H6").Value = countP
+ 'Sheets("GeneratedInvoice").Range("H7").Value = spatiuLiber
+ 'Sheets("GeneratedInvoice").Range("H8").Value = initial
+ 'Sheets("GeneratedInvoice").Range("H9").Value = initial + countCA + spatiuLiber * 3 + countCP + countP + countM
+ 'calculeaza Suma de nr de tranzactii
+Sheets("invaux").Range("M2").Value = Application.Sum(Sheets("invaux").Range("M4:M" & lastInvauxRow).Value)
+Sheets("invaux").Range("BS2").Value = Application.Sum(Sheets("invaux").Range("BS4:BS" & lastInvauxRow).Value)
+Sheets("invaux").Range("CE2").Value = Application.Sum(Sheets("invaux").Range("CE4:CE" & lastInvauxRow).Value)
+'calculeaza Suma de FUND
+Sheets("invaux").Range("O2").Value = Application.Sum(Sheets("invaux").Range("O4:O" & lastInvauxRow).Value)
+Sheets("invaux").Range("BU2").Value = Application.Sum(Sheets("invaux").Range("BU4:BU" & lastInvauxRow).Value)
+'calculeaza Suma de CHRG
+Sheets("invaux").Range("Q2").Value = Application.Sum(Sheets("invaux").Range("Q4:Q" & lastInvauxRow).Value)
+Sheets("invaux").Range("AE2").Value = Application.Sum(Sheets("invaux").Range("AE4:AE" & lastInvauxRow).Value)
+Sheets("invaux").Range("AS2").Value = Application.Sum(Sheets("invaux").Range("AS4:AS" & lastInvauxRow).Value)
+Sheets("invaux").Range("BG2").Value = Application.Sum(Sheets("invaux").Range("BG4:BG" & lastInvauxRow).Value)
+Sheets("invaux").Range("BW2").Value = Application.Sum(Sheets("invaux").Range("BW4:BW" & lastInvauxRow).Value)
+Sheets("invaux").Range("CF2").Value = Application.Sum(Sheets("invaux").Range("CF4:CF" & lastInvauxRow).Value)
+Sheets("invaux").Range("T2").Value = Sheets("invaux").Range("AE2").Value + Sheets("invaux").Range("AS2").Value + Sheets("invaux").Range("BG2").Value
+
  
  'Creeaza Invoice Card Acquiring Event_id
 For i = initial + 1 To maxCA
@@ -118,6 +134,11 @@ Sheets("GeneratedInvoice").Range("H" & i).Value = Application.WorksheetFunction.
 Sheets("GeneratedInvoice").Range("H" & i).Value = Application.WorksheetFunction.Index(Sheets("invaux").Range("AS4:AS10000"), Application.WorksheetFunction.Match(Sheets("GeneratedInvoice").Range("A" & i).Value, Sheets("invaux").Range("AT4:AT10000"), 0))
 Sheets("GeneratedInvoice").Range("H" & i).Value = Application.WorksheetFunction.Index(Sheets("invaux").Range("BG4:BG10000"), Application.WorksheetFunction.Match(Sheets("GeneratedInvoice").Range("A" & i).Value, Sheets("invaux").Range("BH4:BH10000"), 0))
 Sheets("GeneratedInvoice").Range("H" & i).Value = Application.WorksheetFunction.Index(Sheets("invaux").Range("CF4:CF10000"), Application.WorksheetFunction.Match(Sheets("GeneratedInvoice").Range("A" & i).Value, Sheets("invaux").Range("CG4:CG10000"), 0))
+'populeaza totalurile
+Sheets("GeneratedInvoice").Range("H6").Value = Sheets("invaux").Range("Q2").Value
+Sheets("GeneratedInvoice").Range("H7").Value = Sheets("invaux").Range("BW2").Value
+Sheets("GeneratedInvoice").Range("H8").Value = Sheets("invaux").Range("T2").Value
+Sheets("GeneratedInvoice").Range("H9").Value = Sheets("invaux").Range("CF2").Value
 
 
 Next i
