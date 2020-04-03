@@ -1,0 +1,357 @@
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\ruben1.exe.config
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\ruben1.exe
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\ruben1.pdb
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\obj\Debug\ruben1.csprojAssemblyReference.cache
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\obj\Debug\ruben1.Form1.resources
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\obj\Debug\ruben1.Properties.Resources.resources
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\obj\Debug\ruben1.csproj.GenerateResource.cache
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\obj\Debug\ruben1.exe
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\obj\Debug\ruben1.pdb
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\ejml-0.23.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.Runtime.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\javax.json.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\joda-time.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\jollyday.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\protobuf.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Data.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\slf4j-api.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\slf4j-simple.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\stanford-corenlp-3.9.2.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\xom.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.xml
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Data.xml
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Serialization.xml
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\obj\Debug\ruben1.csproj.CopyComplete
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\CalculationDB.mdf
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\CalculationDB_log.ldf
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\EntityFramework.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.Build.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\System.Memory.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\System.Buffers.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\EntityFramework.xml
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\rivan\source\repos\WindowsFormsApp1\ruben1\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ruben1.exe.config
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ruben1.exe
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ruben1.pdb
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ejml-0.23.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.Runtime.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\javax.json.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\joda-time.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\jollyday.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\protobuf.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Data.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Graphviz.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Serialization.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\slf4j-api.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\slf4j-simple.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\stanford-corenlp-3.9.2.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\xom.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.Build.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.Build.Framework.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Collections.Immutable.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Memory.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Numerics.Vectors.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Buffers.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.xml
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Data.xml
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Graphviz.xml
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Serialization.xml
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\cs\Microsoft.Build.resources.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\de\Microsoft.Build.resources.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\en\Microsoft.Build.resources.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\es\Microsoft.Build.resources.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\fr\Microsoft.Build.resources.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\it\Microsoft.Build.resources.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ja\Microsoft.Build.resources.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ko\Microsoft.Build.resources.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\pl\Microsoft.Build.resources.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ru\Microsoft.Build.resources.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\tr\Microsoft.Build.resources.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.Properties.Resources.resources
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.csproj.GenerateResource.cache
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.csproj.CopyComplete
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.exe
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.pdb
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.csprojAssemblyReference.cache
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\EntityFramework.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\DataManager.pdb
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\EntityFramework.xml
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\DataManager.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\DataManager.dll.config
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.Form1.resources
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ruben1.exe.config
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ruben1.exe
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ruben1.pdb
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\DataManager.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ejml-0.23.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\EntityFramework.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.Runtime.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\javax.json.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\joda-time.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\jollyday.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\protobuf.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Data.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Graphviz.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Serialization.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\slf4j-api.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\slf4j-simple.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\stanford-corenlp-3.9.2.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\xom.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.Build.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.Build.Framework.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Collections.Immutable.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Memory.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Numerics.Vectors.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Buffers.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\DataManager.pdb
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\DataManager.dll.config
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\EntityFramework.xml
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.xml
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Data.xml
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Graphviz.xml
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Serialization.xml
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.csprojAssemblyReference.cache
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.Form1.resources
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.Properties.Resources.resources
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.csproj.GenerateResource.cache
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.csproj.CopyComplete
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.exe
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.pdb
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\itextsharp.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\itextsharp.pdfa.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\itextsharp.xtra.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\itextsharp.xml
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.exe.config
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ruben1.exe.config
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ruben1.exe
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ruben1.pdb
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\DataManager.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ejml-0.23.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\EntityFramework.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.Runtime.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\itextsharp.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\itextsharp.pdfa.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\itextsharp.xtra.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\javax.json.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\joda-time.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\jollyday.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\protobuf.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Data.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Graphviz.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Serialization.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\slf4j-api.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\slf4j-simple.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\stanford-corenlp-3.9.2.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\xom.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.Build.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\Microsoft.Build.Framework.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Collections.Immutable.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Memory.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Numerics.Vectors.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\System.Buffers.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\DataManager.pdb
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\DataManager.dll.config
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\EntityFramework.xml
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\itextsharp.xml
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.xml
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Data.xml
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Graphviz.xml
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\QuickGraph.Serialization.xml
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.csprojAssemblyReference.cache
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.exe.config
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.Form1.resources
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.Properties.Resources.resources
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.csproj.GenerateResource.cache
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.csproj.CopyComplete
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.exe
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\ruben1\obj\Debug\ruben1.pdb

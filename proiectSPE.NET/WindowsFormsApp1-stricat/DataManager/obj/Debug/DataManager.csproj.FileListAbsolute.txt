@@ -1,0 +1,48 @@
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\DataManager.pdb
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.pdb
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\EntityFramework.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\EntityFramework.xml
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\EntityFramework.SqlServer.xml
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\DataManager.dll.config
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\DataManager.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.dll
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.Migrations.TPV1.resources
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.csproj.GenerateResource.cache
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.Migrations.TPV11.resources
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.Migrations.TPV12.resources
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.Migrations.TPV13.resources
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.Migrations.pricing1.resources
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.Migrations.pricingv1.resources
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.Migrations.pricingv2.resources
+D:\Materiale Utile\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.csprojAssemblyReference.cache
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\DataManager.dll.config
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\DataManager.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\DataManager.pdb
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\EntityFramework.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\EntityFramework.xml
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.dll
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.pdb
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.csprojAssemblyReference.cache
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.Migrations.nou2.resources
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.csproj.GenerateResource.cache
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.Migrations.nou3.resources
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.Migrations.nou31.resources
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.Migrations.v1.resources
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.Migrations.v4.resources
+C:\Ruben's\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.Migrations.tvaPricing.resources
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\DataManager.dll.config
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\DataManager.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\DataManager.pdb
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\EntityFramework.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\EntityFramework.xml
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.dll
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.pdb
+C:\Ruben's\FSEGA\Licenta\proiect licenta\proiect.NET\WindowsFormsApp1\DataManager\obj\Debug\DataManager.csprojAssemblyReference.cache

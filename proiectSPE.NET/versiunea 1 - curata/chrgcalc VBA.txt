@@ -1,0 +1,111 @@
+Sub pricing()
+
+    'identifica ultimul rand din sheet
+ lastTxnRow = Sheets("txn").Range("A" & Rows.Count).End(xlUp).Row
+
+    'Lisat merchantilor
+ merchantList = Sheets("txn").Range("A4:A10000")
+    'Lisat EVENT_ID-urilor
+ eventList = Sheets("txn").Range("B4:B10000")
+ 
+    'Copiaza lista merchantilor
+ Sheets("pricing").Range("A4:A10000") = merchantList
+     'Identifica ultimul rand din work shetul pricing
+ lastPricingRow = Sheets("pricing").Range("A" & Rows.Count).End(xlUp).Row
+    'Copiaza lista eventurilor
+ Sheets("pricing").Range("B4:B10000") = eventList
+
+
+ Set IndexRgn = Sheets("psegm").Range("B:B")
+ Set MatchRgn = Sheets("psegm").Range("A:A")
+ 
+ 'Loop care sa populeze toate valorile din pricing worksheet
+ For i = 4 To lastPricingRow
+    On Error Resume Next
+    'Index Match function in order to populate: Scheme, CaptureMethode, jurisdiction and transaction Type
+    Sheets("pricing").Range("C" & i).Value = Application.WorksheetFunction.Index(IndexRgn, Application.WorksheetFunction.Match(Sheets("txn").Range("F" & i).Value, MatchRgn, 0))
+    Sheets("pricing").Range("I" & i).Value = Application.WorksheetFunction.Index(Sheets("dataref").Range("H:H"), Application.WorksheetFunction.Match(Sheets("txn").Range("D" & i).Value, Sheets("dataref").Range("I:I"), 0))
+    Sheets("pricing").Range("G" & i).Value = Application.WorksheetFunction.Index(Sheets("dataref").Range("K:K"), Application.WorksheetFunction.Match(Sheets("txn").Range("I" & i).Value, Sheets("dataref").Range("L:L"), 0))
+    Sheets("pricing").Range("F" & i).Value = Application.WorksheetFunction.Index(Sheets("dataref").Range("E:E"), Application.WorksheetFunction.Match(Sheets("txn").Range("H" & i).Value, Sheets("dataref").Range("F:F"), 0))
+    
+    'Populate Aquired/Processed, Auth/NotAUTH columns
+    If Sheets("txn").Range("C" & i).Value = "N" Then
+       Sheets("pricing").Range("D" & i).Value = "Processed"
+    Else: Sheets("pricing").Range("D" & i).Value = "Acquired"
+    End If
+    If Sheets("txn").Range("G" & i).Value = "Y" Then
+       Sheets("pricing").Range("E" & i).Value = "Authorised"
+    Else: Sheets("pricing").Range("E" & i).Value = "Not Authorised"
+    'Populate Amount column with the correct sign
+    End If
+    If Sheets("txn").Range("D" & i).Value = "0" Or Sheets("txn").Range("D" & i).Value = "1" Or Sheets("txn").Range("D" & i).Value = "2" Then
+       Sheets("pricing").Range("H" & i).Value = Sheets("txn").Range("C" & i).Value
+    Else: Sheets("pricing").Range("H" & i).Value = -Sheets("txn").Range("C" & i).Value
+    End If
+    'Calculeaza FXINCOME
+    Sheets("pricing").Range("K" & i).Value = Round((Sheets("txn").Range("M" & i).Value - Sheets("txn").Range("N" & i).Value) * Sheets("txn").Range("C" & i).Value, 4)
+    
+    'Create Base Charge codes
+    If (Sheets("txn").Range("C" & i).Value = "N") And (Sheets("txn").Range("F" & i).Value <> "AMEX") And (Sheets("txn").Range("F" & i).Value <> "DCD") Then
+       Sheets("pricing").Range("M" & i).Value = "Combination not possible"
+       ElseIf (Sheets("txn").Range("C" & i).Value = "Y") And (Sheets("txn").Range("D" & i).Value = 10) Or (Sheets("txn").Range("D" & i).Value = 12) Then
+       Sheets("pricing").Range("M" & i).Value = "ARF" & Sheets("txn").Range("F" & i).Value
+       ElseIf (Sheets("txn").Range("C" & i).Value = "Y") And (Sheets("txn").Range("D" & i).Value = 11) Then
+       Sheets("pricing").Range("M" & i).Value = "AOC" & Sheets("txn").Range("F" & i).Value
+       ElseIf (Sheets("txn").Range("C" & i).Value = "Y") And (Sheets("txn").Range("D" & i).Value = 0) Then
+       Sheets("pricing").Range("M" & i).Value = "APU" & Sheets("txn").Range("F" & i).Value
+       ElseIf (Sheets("txn").Range("C" & i).Value = "Y") And (Sheets("txn").Range("D" & i).Value = 1) Then
+       Sheets("pricing").Range("M" & i).Value = "ACA" & Sheets("txn").Range("F" & i).Value
+       ElseIf (Sheets("txn").Range("C" & i).Value = "Y") And (Sheets("txn").Range("D" & i).Value = 2) Then
+       Sheets("pricing").Range("M" & i).Value = "APC" & Sheets("txn").Range("F" & i).Value
+    End If
+    
+    'Assigne PPI and PPC for every
+    If Left(Sheets("pricing").Range("M" & i).Value, 1) = "A" Then
+    If Sheets("pricing").Range("A" & i).Value = Sheets("contract").Range("D4").Value Then
+        Sheets("pricing").Range("N" & i).Value = Application.WorksheetFunction.Index(Sheets("contract").Range("B:B"), Application.WorksheetFunction.Match(Sheets("pricing").Range("M" & i).Value, Sheets("contract").Range("A:A"), 0))
+        Sheets("pricing").Range("O" & i).Value = Application.WorksheetFunction.Index(Sheets("contract").Range("C:C"), Application.WorksheetFunction.Match(Sheets("pricing").Range("M" & i).Value, Sheets("contract").Range("A:A"), 0)) * 100 & "%"
+    ElseIf Sheets("pricing").Range("A" & i).Value = Sheets("contract").Range("I4").Value Then
+        Sheets("pricing").Range("N" & i).Value = Application.WorksheetFunction.Index(Sheets("contract").Range("G:G"), Application.WorksheetFunction.Match(Sheets("pricing").Range("M" & i).Value, Sheets("contract").Range("F:F"), 0))
+        Sheets("pricing").Range("O" & i).Value = Application.WorksheetFunction.Index(Sheets("contract").Range("H:H"), Application.WorksheetFunction.Match(Sheets("pricing").Range("M" & i).Value, Sheets("contract").Range("F:F"), 0)) * 100 & "%"
+    Else
+        Sheets("pricing").Range("N" & i).Value = "No contract found for:" & Sheets("pricing").Range("A" & i).Value
+        Sheets("pricing").Range("O" & i).Value = "No contract found for:" & Sheets("pricing").Range("A" & i).Value
+    End If
+    
+    'Calculate PPC*FUND and PPC*FUND+PPI for Base Charge
+    If Sheets("pricing").Range("O" & i).Value <> "" Then
+        Sheets("pricing").Range("P" & i).Value = Round(Abs(Sheets("pricing").Range("O" & i).Value * Sheets("pricing").Range("H" & i).Value), 6)
+    Else: Sheets("pricing").Range("P" & i).Value = ""
+    End If
+    If Sheets("pricing").Range("O" & i).Value <> "" Then
+        Sheets("pricing").Range("Q" & i).Value = Abs(Sheets("pricing").Range("P" & i).Value + Sheets("pricing").Range("N" & i).Value)
+    Else: Sheets("pricing").Range("Q" & i).Value = ""
+    End If
+    End If
+    
+    
+    
+    'Calculeaza PPC*FUND si PPC*FUND+PPI pt Base Charges
+    
+ 
+ 
+ 
+ 'Formateaza coloanele
+    Sheets("pricing").Range("J" & i).Interior.ColorIndex = 1
+    Sheets("pricing").Range("L" & i).Interior.ColorIndex = 1
+ Next i
+ 
+     'Calculeaza toate pricing events create
+     'Base Charge events
+    Sheets("pricing").Range("K3").Value = Application.Sum(Sheets("pricing").Range("K4:K1000").Value)
+    Sheets("pricing").Range("M3").Value = Application.CountA(Sheets("pricing").Range("M4:M1000").Value)
+    
+    
+    
+ 
+ 'MsgBox lastTxnRow
+
+
+End Sub
+

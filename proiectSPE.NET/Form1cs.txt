@@ -1,0 +1,515 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace ruben1
+{
+    public partial class Form1 : Form
+    {
+        bool isTxnTypePanelOpen = false;
+        bool isSchemaPanelOpen = false;
+        bool isCaptureMethodePanelOpen = false;
+        bool isLocalityPanelOpen = false;
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void checkBoxAcquired_CheckedChanged(object sender, EventArgs e)
+        {
+            if (panelSchemaForProcessed.Size.Height == 100 && this.AcquiredCheckBox.Checked)
+            {
+                this.panelSchemaForProcessed.Size = new System.Drawing.Size(170, 0);
+                isSchemaPanelOpen = false;
+                schemaLabel.Text = "Schema";
+                schemaLabel.ForeColor = System.Drawing.Color.Aqua;
+            }
+            if (panelSchemeForAcquired.Size.Height == 220 && !this.AcquiredCheckBox.Checked)
+            {
+                this.panelSchemeForAcquired.Size = new System.Drawing.Size(225, 0);
+                isSchemaPanelOpen = false;
+                schemaLabel.Text = "Schema";
+                schemaLabel.ForeColor = System.Drawing.Color.Aqua;
+            }
+            schemaLabel.Text = "Schema";
+            schemaLabel.ForeColor = System.Drawing.Color.Aqua;
+        }
+    
+
+        private void checkBoxAuthorised_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel5_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void purchaseLabel_Click(object sender, EventArgs e)
+        {
+            TransactionTypeLabel.Text = purchaseLabel.Text;
+            TransactionTypeLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerTxnType.Start();
+        }
+        private void cashAdvanceLabel_Click(object sender, EventArgs e)
+        {
+            TransactionTypeLabel.Text = cashAdvanceLabel.Text;
+            TransactionTypeLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerTxnType.Start();
+        }
+        private void octLabel_Click(object sender, EventArgs e)
+        {
+            TransactionTypeLabel.Text = octLabel.Text;
+            TransactionTypeLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerTxnType.Start();
+        }
+
+
+        private void quasyCashLabel_Click(object sender, EventArgs e)
+        {
+            TransactionTypeLabel.Text = quasyCashLabel.Text;
+            TransactionTypeLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerTxnType.Start();
+        }
+        private void pwcbLabel_Click(object sender, EventArgs e)
+        {
+            TransactionTypeLabel.Text = pwcbLabel.Text;
+            TransactionTypeLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerTxnType.Start();
+        }
+        private void refundLabel_Click(object sender, EventArgs e)
+        {
+            TransactionTypeLabel.Text = refundLabel.Text;
+            TransactionTypeLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerTxnType.Start();
+        }
+
+        private void submitButton_Click(object sender, EventArgs e)
+        {
+            if (TransactionTypeLabel.Text == "Transaction Type" || schemaLabel.Text == "Schema"
+                || captureMethodeLabel.Text == "Capture Methode" || localityLabel.Text == "Locality")
+            {
+                //this.panelErrorMsgBox.Size = new System.Drawing.Size(230, 45);
+                this.panelDashbordTxn.Size = new System.Drawing.Size(0, 0);
+                MessageBox.Show("Please complete all transaction details!", "Error: The combination is not possible!", MessageBoxButtons.OK);
+            }
+            else
+                this.panelDashbordTxn.Size = new System.Drawing.Size(1140, 100);
+           // this.textBox1Nr.Location = new System.Drawing.Point(3, 8);
+            this.textBox1Nr.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox1Acquired_Processed.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox1TxnType.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox1Schema.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox1Auth_NotAuth.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox1CaptureMethode.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox1Locality.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox1Amount.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox2Nr.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox2Acquired.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox2TxnType.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox2Schema.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox2Auth_NotAuth.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox2CaptureMethode.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox2Locality.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox2Amount.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox3Nr.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox3Acquired.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox3TxnType.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox3Schema.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox3Auth_NotAuth.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox3CaptureMethode.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox3Locality.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox3Amount.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox4Nr.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox4Acquired.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox4TxnType.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox4Schema.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox4Auth_NotAuth.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox4CaptureMethode.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox4Locality.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.textBox4Amount.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+
+        //    this.textBoxHistory1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+          //  textBoxHistory1.Text = TransactionTypeLabel.Text + "\t" + schemaLabel.Text + "\t\t" + captureMethodeLabel.Text
+            //    + "\t\t" + localityLabel.Text + "\t\t" + amountTextBox.Text + "\t\t";
+        }
+
+        private void visaDrPerIntLabel_Click(object sender, EventArgs e)
+        {
+            schemaLabel.Text = visaDrPerIntLabel.Text;
+            schemaLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerSchema.Start();
+        }
+        private void visaDrComIntlLabel_Click(object sender, EventArgs e)
+        {
+            schemaLabel.Text = visaDrComIntlLabel.Text;
+            schemaLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerSchema.Start();
+        }
+        private void visaCorporateLabel_Click(object sender, EventArgs e)
+        {
+            schemaLabel.Text = visaCorporateLabel.Text;
+            schemaLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerSchema.Start();
+        }
+        private void visaCreditPersonalLabel_Click(object sender, EventArgs e)
+        {
+            schemaLabel.Text = visaCreditPersonalLabel.Text;
+            schemaLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerSchema.Start();
+        }
+        private void visaCommerceLabel_Click(object sender, EventArgs e)
+        {
+            schemaLabel.Text = visaCommerceLabel.Text;
+            schemaLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerSchema.Start();
+        }
+        private void visaBusinessLabel_Click(object sender, EventArgs e)
+        {
+            schemaLabel.Text = visaBusinessLabel.Text;
+            schemaLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerSchema.Start();
+        }
+
+        private void masterCardBusinessLabel_Click(object sender, EventArgs e)
+        {
+            schemaLabel.Text = masterCardBusinessLabel.Text;
+            schemaLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerSchema.Start();
+        }
+
+        private void maestroComLabel_Click(object sender, EventArgs e)
+        {
+            schemaLabel.Text = maestroComLabel.Text;
+            schemaLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerSchema.Start();
+        }
+
+        private void debitMasterCardPerIntLabel_Click(object sender, EventArgs e)
+        {
+            schemaLabel.Text = debitMasterCardPerIntLabel.Text;
+            schemaLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerSchema.Start();
+        }
+
+        private void americanExpressabel_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void jcbLabel_Click(object sender, EventArgs e)
+        {
+            schemaLabel.Text = jcbLabel.Text;
+            schemaLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerSchema.Start();
+        }
+
+        private void dinersDiscoverLabel_Click(object sender, EventArgs e)
+        {
+            schemaLabel.Text = labelDinersDiscoverAcquired.Text;
+            schemaLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerSchema.Start();
+        }
+
+        private void masterCardCrPerLabel_Click(object sender, EventArgs e)
+        {
+            schemaLabel.Text = masterCardCrPerLabel.Text;
+            schemaLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerSchema.Start();
+        }
+        private void panelSchemaForProcessed_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void labelAmericanExpress_Click(object sender, EventArgs e)
+        {
+            schemaLabel.Text = labelAmericanExpress.Text;
+            schemaLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerSchema.Start();
+        }
+
+        private void labelDinersDiscoverdProcessed_Click(object sender, EventArgs e)
+        {
+            schemaLabel.Text = labelDinersDiscoverdProcessed.Text;
+            schemaLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerSchema.Start();
+        }
+
+        private void contactlessLabel_Click(object sender, EventArgs e)
+        {
+            captureMethodeLabel.Text = contactlessLabel.Text;
+            captureMethodeLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerCaptureMethode.Start();
+        }
+
+        private void magneticStripeLabel_Click(object sender, EventArgs e)
+        {
+            captureMethodeLabel.Text = magneticStripeLabel.Text;
+            captureMethodeLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerCaptureMethode.Start();
+        }
+
+        private void eCommerceLabel_Click(object sender, EventArgs e)
+        {
+            captureMethodeLabel.Text = eCommerceLabel.Text;
+            captureMethodeLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerCaptureMethode.Start();
+        }
+
+        private void offlinePinLabel_Click(object sender, EventArgs e)
+        {
+            captureMethodeLabel.Text = offlinePinLabel.Text;
+            captureMethodeLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerCaptureMethode.Start();
+        }
+
+        private void onlineChipLabel_Click(object sender, EventArgs e)
+        {
+            captureMethodeLabel.Text = onlineChipLabel.Text;
+            captureMethodeLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerCaptureMethode.Start();
+        }
+        private void panKeyEntryLabel_Click(object sender, EventArgs e)
+        {
+            captureMethodeLabel.Text = panKeyEntryLabel.Text;
+            captureMethodeLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerCaptureMethode.Start();
+        }
+
+        private void motoSecureLabel_Click(object sender, EventArgs e)
+        {
+            captureMethodeLabel.Text = motoSecureLabel.Text;
+            captureMethodeLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerCaptureMethode.Start();
+        }
+        private void intraRegionalLabel_Click(object sender, EventArgs e)
+        {
+            localityLabel.Text = intraRegionalLabel.Text;
+            localityLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerLocality.Start();
+        }
+        private void domesticLabel_Click(object sender, EventArgs e)
+        {
+            localityLabel.Text = domesticLabel.Text;
+            localityLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerLocality.Start();
+        }
+
+        private void interRegionalLabel_Click(object sender, EventArgs e)
+        {
+            localityLabel.Text = interRegionalLabel.Text;
+            localityLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            timerLocality.Start();
+        }
+        private void localityLabel_Click(object sender, EventArgs e)
+        {
+            timerLocality.Start();
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void TransactionTypeLabel_Click(object sender, EventArgs e)
+        {
+            timerTxnType.Start();
+        }
+
+
+        private void amountTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void captureMethodeLabel_Click(object sender, EventArgs e)
+        {
+            timerCaptureMethode.Start();
+        }
+
+      
+        private void schemaLabel_Click(object sender, EventArgs e)
+        {
+            timerSchema.Start();
+        }
+
+        private void amountLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        
+        private void timerTxnType_Tick(object sender, EventArgs e)
+        {
+            if (isTxnTypePanelOpen)
+            {
+                panelTxnType.Height -= 20;
+                if (panelTxnType.Height == 0)
+                {
+                    timerTxnType.Stop();
+                    isTxnTypePanelOpen = false;
+                }
+            }
+            else if (!isTxnTypePanelOpen)
+            {
+                panelTxnType.Height += 20;
+                if (panelTxnType.Height == 140)
+                {
+                    timerTxnType.Stop();
+                    isTxnTypePanelOpen = true;
+                }
+            }
+        }
+
+        private void timerSchema_Tick(object sender, EventArgs e)
+        {
+            if (isSchemaPanelOpen && this.AcquiredCheckBox.Checked)
+            {
+                panelSchemeForAcquired.Height -= 20;
+                if (panelSchemeForAcquired.Height == 0)
+                {
+                    timerSchema.Stop();
+                    isSchemaPanelOpen = false;
+                }
+            }
+            else if (!isSchemaPanelOpen && this.AcquiredCheckBox.Checked)
+            {
+                panelSchemeForAcquired.Height += 20;
+                if (panelSchemeForAcquired.Height == 220)
+                {
+                    timerSchema.Stop();
+                    isSchemaPanelOpen = true;
+                }
+            }
+
+            if (isSchemaPanelOpen && !this.AcquiredCheckBox.Checked)
+            {
+                panelSchemaForProcessed.Height -= 20;
+                if (panelSchemaForProcessed.Height == 0)
+                {
+                    timerSchema.Stop();
+                    isSchemaPanelOpen = false;
+                }
+            }
+            else if (!isSchemaPanelOpen && !this.AcquiredCheckBox.Checked)
+            {
+                panelSchemaForProcessed.Height += 20;
+                if (panelSchemaForProcessed.Height == 100)
+                {
+                    timerSchema.Stop();
+                    isSchemaPanelOpen = true;
+                }
+            }
+        }
+        private void timerCaptureMethode_Tick(object sender, EventArgs e)
+        {
+            if (isCaptureMethodePanelOpen)
+            {
+                panelCaptureMethode.Height -= 20;
+                if (panelCaptureMethode.Height == 0)
+                {
+                    timerCaptureMethode.Stop();
+                    isCaptureMethodePanelOpen = false;
+                }
+            }
+            else if (!isCaptureMethodePanelOpen)
+            {
+                panelCaptureMethode.Height += 20;
+                if (panelCaptureMethode.Height == 140)
+                {
+                    timerCaptureMethode.Stop();
+                    isCaptureMethodePanelOpen = true;
+                }
+            }
+        }
+
+        private void timerLocality_Tick(object sender, EventArgs e)
+        {
+            if (isLocalityPanelOpen)
+            {
+                panelLocality.Height -= 20;
+                if (panelLocality.Height == 0)
+                {
+                    timerLocality.Stop();
+                    isLocalityPanelOpen = false;
+                }
+            }
+            else if (!isLocalityPanelOpen )
+            {
+                panelLocality.Height += 20;
+                if (panelLocality.Height == 80)
+                {
+                    timerLocality.Stop();
+                    isLocalityPanelOpen = true;
+                }
+            }
+        }
+
+        private void buttonRefresh_Click(object sender, EventArgs e)
+        {
+            TransactionTypeLabel.Text = "Transaction Type";
+            schemaLabel.Text = "Schema";
+            captureMethodeLabel.Text = "Capture Methode";
+            localityLabel.Text = "Locality";
+            panelTxnType.Size = new System.Drawing.Size(132, 0);
+            panelSchemeForAcquired.Size = new System.Drawing.Size(225, 0);
+            panelSchemaForProcessed.Size = new System.Drawing.Size(170, 0);
+            panelCaptureMethode.Size = new System.Drawing.Size(148, 0);
+            panelLocality.Size = new System.Drawing.Size(130, 0);
+            TransactionTypeLabel.ForeColor = System.Drawing.Color.Aqua;
+            schemaLabel.ForeColor = System.Drawing.Color.Aqua;
+            captureMethodeLabel.ForeColor = System.Drawing.Color.Aqua;
+            localityLabel.ForeColor = System.Drawing.Color.Aqua;
+            buttonRefresh.Text = "Refresh";
+            this.panelDashbordTxn.Size = new System.Drawing.Size(0, 0);
+        }
+
+        private void labelErrMsgBox_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panelErrorMsgBox_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void buttonErrMsgBoxOK_Click(object sender, EventArgs e)
+        {
+            this.panelErrorMsgBox.Size = new System.Drawing.Size(0, 0);
+        }
+
+        private void textBoxHistory1_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void textBox3Schema_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

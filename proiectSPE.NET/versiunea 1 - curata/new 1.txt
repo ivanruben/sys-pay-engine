@@ -1,0 +1,32 @@
+public int Id { get; set; }
+        public string Merchant_Id { get; set; }
+        public int Event_Id { get; set; }
+        public string Acquired { get; set; }
+        public string Transaction_Type { get; set; }
+        public string Schema { get; set; }
+        public string Authorised { get; set; }
+        public string CaptureMethod { get; set; }
+        public string Locality { get; set; }
+        public string Amount { get; set; }
+        public string Txn_Currency { get; set; }
+        public double FX_In { get; set; }
+        public double FX_Out { get; set; }
+        public DateTime? Creation_Data { get; set; }
+		
+		
+		 var transaction = new TransactionProcessing()
+            {
+                Transaction_Type = textBox3TxnType.Text,
+                CaptureMethod = textBox3CaptureMethode.Text,
+                Schema = textBox3Schema.Text,
+                Locality = textBox3Locality.Text,
+                Authorised = textBox3Auth_NotAuth.Text,
+                Acquired = textBox3Acquired.Text,
+                Amount = amountTextBox.Text,
+                Event_Id = 10000+clicksNumber,
+                Merchant_Id = "MERCH00001",
+                Txn_Currency = "RON",
+                FX_In = 0.756,
+                FX_Out = 0.723,
+                Creation_Data = cretionDate
+            };
